@@ -1,5 +1,5 @@
 # Udemy-auto-complete
-Complete Udemy course with one click to receive course certificate
+Complete Udemy course with one click to receive course certificate.
 
 ## Step 1:
 Open the Udemy course page.
